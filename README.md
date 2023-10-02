@@ -17,4 +17,4 @@ Subject : Enterprise Development Software
 - Module 3 (Upload Data to Your Instance)
 - Module 4 (Connecting to and Creating Data on the SAP HANA Cloud Data Lake)
 - Module 5 (Query Data on SAP HANA Cloud)
-
+- Module 6 (Setting up your first HANA project in SAP Business Application Studio)
